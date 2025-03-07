@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript, html
 - 💞️ I’m looking to collaborate on github, always
-- 📫 How to reach me - for now, i'll not writing my email..
+- 📫 How to reach me - gablilli@proton.me
 - 😄 Pronouns: Capriolo
-- ⚡ Fun fact: idk lol
+- ⚡ Fun fact: I'm an Hackintosher, but I have a Mac Mini!
 
