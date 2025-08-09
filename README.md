@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gablilli
 - 🍕 *aiemm fròm itali!1!1"*
-- 👀 I'm currently a front-end developer (who wants to be a full stack 🫠)
+- 👀 I'm currently a full-stack web developer
 - 🌱 I’m currently learning javascript, python (and react)
 - 🍳 Cooking websites rn..
 - 📫 How to reach me - gablilli@proton.me/gabriele@lilli.eu.org
