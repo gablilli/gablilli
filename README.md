@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning javascript, react and threejs! (python in free time..)
 - 🌍 Translator on @weblate
 - 🍳 Cooking websites rn..
-- 📫 How to reach me - gablilli@proton.me/gabriele@lilli.eu.org
+- 📫 How to reach me - gabriele@lilli.eu.org
 - 💻 Setting up selfhosted docker services in the free time..
 - ⚡ Fun fact: I'm an Hackintosher, but I have a Mac Mini!
 
