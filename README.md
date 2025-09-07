@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @gablilli
-- 🍕 *aiemm fròm itali!1!1"*
-- 👀 I'm currently a full-stack web developer
-- 🌱 I’m currently learning javascript, react and threejs! (python in free time..)
-- 🌍 Translator on @weblate
-- 🍳 Cooking websites rn..
-- 📫 How to reach me - gabriele@lilli.eu.org
-- 💻 Setting up selfhosted docker services in the free time..
-- ⚡ Fun fact: I'm an Hackintosher, but I have a Mac Mini!
+# 👋 Hi, I’m Gabriele (@gablilli)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gablilli)](https://github.com/anuraghazra/github-readme-stats) 
+🍕 Aiemm from Italy!  
+💻 Full-stack web developer  
+🌱 Currently learning **JavaScript**, **React**, and **Three.js** (with some Python on the side)  
+🌍 Translator on [Weblate](https://weblate.org/)  
+📫 Reach me at: **gabriele@lilli.eu.org**  
+⚡ Fun fact: I tinker with Hackintosh, but I also own a Mac Mini!  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablilli)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🚀 What I’m into
+- Building and experimenting with **web projects**
+- Playing around with **Docker services**
+- Mixing dev with creativity (sometimes even *cooking websites* 🍳)
+
+---
+
+### 📊 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gablilli&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablilli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
