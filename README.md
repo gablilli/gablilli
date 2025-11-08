@@ -1,22 +1,22 @@
-# 👋 Hi, I’m Gabriele (@gablilli)
+# hi! you can call me gab (@gablilli)
 
-🍕 Aiemm from Italy!  
-💻 Full-stack web developer  
-🌱 Currently learning **JavaScript**, **React**, and **Svelte** (with some Python on the side)  
-🌍 Translator on [Weblate](https://weblate.org/)  
-📫 Reach me at: **gabriele@lilli.eu.org**  
-⚡ Fun fact: I tinker with Hackintosh, but I also own a Mac Mini!  
-
----
-
-### 🚀 What I’m into
-- Building and experimenting with **web projects**
-- Playing around with **Docker services**
-- Mixing dev with creativity (sometimes even *cooking websites* 🍳)
+🍕 aiemm from italy!  
+💻 full-stack web developer  
+🌱 currently learning **javascript**, **react**, and **svelte** (with some python on the side)  
+🌍 translator on [weblate](https://weblate.org/)  
+📫 reach me at: **gab@lilli.eu.org**  
+⚡ fun fact: i tinker with hackintosh, but i also own a mac mini!  
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gablilli&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablilli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gablilli)](https://git.io/streak-stats)
+### 🚀 what i’m into
+- building and experimenting with **web projects**
+- playing around with **docker services**
+- mixing dev with creativity (sometimes even *cooking websites* 🍳)
+
+---
+
+### 📊 github stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=gablilli&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablilli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![github streak](https://streak-stats.demolab.com/?user=gablilli)](https://git.io/streak-stats)
