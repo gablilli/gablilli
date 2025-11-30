@@ -17,6 +17,6 @@
 ---
 
 ### 📊 github stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=gablilli&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablilli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![github streak](https://github-readme-streak-stats-two-teal.vercel.app?user=gablilli&locale=it)](https://git.io/streak-stats)
+![github stats](https://readmestats-beta.vercel.app/api?username=gablilli&show_icons=true&theme=default)
+![top langs](https://readmestats-beta.vercel.app/api/top-langs/?username=gablilli&layout=compact)
+![github streak](https://github-readme-streak-stats-two-teal.vercel.app?user=gablilli&locale=it)
