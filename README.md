@@ -2,7 +2,7 @@
 
 🍕 aiemm from italy!  
 💻 full-stack web developer  
-🌱 currently learning **javascript**, **react**, and **svelte** (with some python on the side)  
+🌱 currently learning **javascript**, **react**, and **svelte** (with some flutter and python on the side)  
 🌍 translator on [weblate](https://weblate.org/)  
 📫 reach me at: **gab@lilli.eu.org**  
 ⚡ fun fact: i tinker with hackintosh, but i also own a mac mini!  
