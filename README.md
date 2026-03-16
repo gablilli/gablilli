@@ -43,6 +43,7 @@
 <h3 align="center">🚀 what i'm into</h2>
 
 <p align="center">
+  <b>reverse engineering</b> all the time<br/>
   building and experimenting with <b>web projects</b><br/>
   playing around with <b>docker services</b><br/>
   mixing dev with creativity (sometimes even <i>cooking websites</i> 🍳)
